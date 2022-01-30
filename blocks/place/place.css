@@ -4,6 +4,7 @@
     margin: 80px auto 0;
     grid-template-columns: 460px 484px;
     grid-template-rows: auto;
+    justify-content: center;
     column-gap: 40px;
     row-gap: 48px;
     width: calc(100% - 148px * 2);
